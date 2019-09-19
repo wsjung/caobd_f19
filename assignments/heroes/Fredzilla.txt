@@ -38,7 +38,7 @@ Fred can transform into a [[Godzilla]]-like Kaiju. In addition, he can manifest 
 | caption            = [[Walt Disney Animation Studios]] re-imagining of Fred
 | first              = ''[[Big Hero 6 (film)|Big Hero 6]]'' (2014)
 | creator            = [[Don Hall (filmmaker)|Don Hall]]<br>[[Chris Williams (director)|Chris Williams]]
-| voice              = [[T. J. Miller]] (film, ''[[Kingdom Hearts III]]'')<br>[[Brooks Wheelan]] (TV series)
+| voice              = [[T.J. Miller]] (film, ''[[Kingdom Hearts III]]'')<br>[[Brooks Wheelan]] (TV series)
 | nickname           = Flame Jumper <small>(by Karmi)</small><ref>{{cite episode|title=Fan Friction|series=Big Hero 6: The Series|credits=Juwono, Ben (director); Jenny Jaffe (writer)|network=[[Disney XD]]|airdate=August 18, 2018|season=1|number=15}}</ref><br>Lizard Guy <small>(by Richardson Mole)</small>
 | alias              = Fredzilla<ref name="Fredzilla" /><br>Fredmeleon<ref name="Fredmeleon" />
 | gender             = Male

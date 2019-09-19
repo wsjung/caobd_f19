@@ -1,6 +1,6 @@
-{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image= Athena in Hercules.jpg
-|imagesize=
+|imagesize=150
 |converted=y
 |caption= Athena on the cover of ''Incredible Hercules #127''.  Art by Dave Williams.
 |character_name=Athena
@@ -11,7 +11,8 @@
 |creators=[[Stan Lee]]<br>[[Jack Kirby]]
 |alliances=[[Olympians (Marvel Comics)|Olympian Gods]]<br>[[Council of God-Heads]]
 |aliases=Minerva, Agent Sexton, Miranda Minerva
-|powers=Super-genius Intellect, enhanced by Cosmic Awareness<br>Superhuman strength, speed, stamina, and agility.<br>Immortality<br>Mastery over multiple forms of combat<br>Limited transmutation<br>Flight<br>Ability to cast permanent curses upon mortals and their descendants<br>Lightning projection inherited from Zeus}}
+|powers=Super-genius Intellect, enhanced by Cosmic Awareness<br>Superhuman strength, speed, stamina, and agility.<br>Immortality<br>Mastery over multiple forms of combat<br>Limited transmutation<br>Flight<br>Ability to cast permanent curses upon mortals and their descendants<br>Lightning projection inherited from Zeus
+}}
 
 '''Athena''' is a [[fiction]]al [[deity]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is based on the [[Athena|Greek Goddess of the same name]].
 

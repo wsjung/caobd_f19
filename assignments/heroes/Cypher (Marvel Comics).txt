@@ -2,7 +2,7 @@
 {{Overly detailed|date=August 2018}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image=Cypher from X-Men Legacy 235.jpg
-|caption=Cypher from X-Men Legacy #235. Art by [[Greg Land]].
+|caption=Cypher from ''X-Men Legacy'' #235 by [[Greg Land]].
 |character_name=Cypher
 |real_name=Douglas Aaron "Doug" Ramsey
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
